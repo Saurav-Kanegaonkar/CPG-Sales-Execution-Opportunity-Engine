@@ -1,0 +1,37 @@
+retailer,check_name,failure_rate,rows_checked,owner,status
+MetroMart,POS freshness,0.059,101627,Commercial Data Ops,Monitor
+MetroMart,store master match,0.026,35454,Sales Analytics,Monitor
+MetroMart,SKU hierarchy,0.0414,73425,Commercial Data Ops,Monitor
+MetroMart,promo calendar join,0,34838,Commercial Data Ops,Pass
+MetroMart,shipment reconciliation,0.014,46207,Commercial Data Ops,Pass
+MetroMart,ACV null check,0.068,88212,BI Engineering,Investigate
+Value Basket,POS freshness,0.0185,119432,Sales Analytics,Pass
+Value Basket,store master match,0,77531,Sales Analytics,Pass
+Value Basket,SKU hierarchy,0.0144,51948,BI Engineering,Pass
+Value Basket,promo calendar join,0,67781,BI Engineering,Pass
+Value Basket,shipment reconciliation,0.0795,70294,BI Engineering,Investigate
+Value Basket,ACV null check,0.0106,47819,Commercial Data Ops,Pass
+FreshWay,POS freshness,0.0303,62800,Commercial Data Ops,Monitor
+FreshWay,store master match,0.0641,51312,Sales Analytics,Investigate
+FreshWay,SKU hierarchy,0.0076,65594,Sales Analytics,Pass
+FreshWay,promo calendar join,0.0805,28992,Sales Analytics,Investigate
+FreshWay,shipment reconciliation,0.0443,30448,Commercial Data Ops,Monitor
+FreshWay,ACV null check,0.0085,117838,BI Engineering,Pass
+ClubPoint,POS freshness,0.016,81993,BI Engineering,Pass
+ClubPoint,store master match,0,26901,BI Engineering,Pass
+ClubPoint,SKU hierarchy,0.0504,97735,Sales Analytics,Monitor
+ClubPoint,promo calendar join,0.0277,123429,Commercial Data Ops,Monitor
+ClubPoint,shipment reconciliation,0.0441,35259,Sales Analytics,Monitor
+ClubPoint,ACV null check,0.0677,97972,BI Engineering,Investigate
+Corner Market,POS freshness,0.0626,50936,Sales Analytics,Investigate
+Corner Market,store master match,0.0611,22571,Commercial Data Ops,Investigate
+Corner Market,SKU hierarchy,0.0217,98120,BI Engineering,Pass
+Corner Market,promo calendar join,0.0211,61749,Commercial Data Ops,Pass
+Corner Market,shipment reconciliation,0.0401,42062,Sales Analytics,Monitor
+Corner Market,ACV null check,0.0129,32244,Commercial Data Ops,Pass
+ShopSquare,POS freshness,0.0313,50488,BI Engineering,Monitor
+ShopSquare,store master match,0.0505,33494,Commercial Data Ops,Monitor
+ShopSquare,SKU hierarchy,0,33163,Commercial Data Ops,Pass
+ShopSquare,promo calendar join,0.034,123146,Commercial Data Ops,Monitor
+ShopSquare,shipment reconciliation,0,42446,Commercial Data Ops,Pass
+ShopSquare,ACV null check,0.0202,37124,Sales Analytics,Pass

@@ -1,0 +1,121 @@
+retailer,region,category,dollar_sales,gross_margin,avg_acv_distribution,avg_oos_rate,avg_promo_compliance,avg_feature_display,avg_shipment_lag_days,open_field_actions,opportunity_value,priority_score,tier,recommended_action
+MetroMart,South,Coffee,65075.47,25561.73,74.3,0.0849,0.763,0.713,3.2,4,40737.61,32.3,Critical,Close distribution and shelf execution gap
+ShopSquare,South,Cold Cuts,84275.11,26128.05,73.6,0.0892,0.768,0.718,3.2,4,42583.83,32.0,Critical,Close distribution and shelf execution gap
+ShopSquare,South,Coffee,72724.13,28599.95,73.2,0.0879,0.771,0.719,3.2,4,46467.65,32.0,Critical,Close distribution and shelf execution gap
+MetroMart,South,Cold Cuts,76076.95,23601.33,75.0,0.0867,0.774,0.723,3.4,4,35801.75,31.2,Critical,Close distribution and shelf execution gap
+Corner Market,West,Coffee,47654.3,18743.45,73.4,0.0898,0.767,0.722,3.2,3,30278.09,31.2,Critical,Close distribution and shelf execution gap
+Corner Market,West,Cold Cuts,57431.22,17793.46,73.6,0.0863,0.768,0.716,3.2,3,28674.0,30.9,Critical,Close distribution and shelf execution gap
+Value Basket,South,Cold Cuts,99118.81,30736.46,72.8,0.0932,0.774,0.719,3.5,3,51720.75,30.8,Critical,Close distribution and shelf execution gap
+FreshWay,Midwest,Cold Cuts,81564.2,25285.75,73.7,0.0908,0.776,0.727,3.4,3,40075.9,30.8,Critical,Close distribution and shelf execution gap
+ClubPoint,West,Coffee,98714.93,38776.2,73.0,0.0909,0.778,0.728,3.5,3,62261.29,30.8,Critical,Close distribution and shelf execution gap
+MetroMart,West,Cold Cuts,75126.38,23279.98,73.6,0.0895,0.775,0.725,3.4,3,36934.17,30.5,Critical,Close distribution and shelf execution gap
+ShopSquare,West,Cold Cuts,98679.63,30629.1,73.5,0.0908,0.771,0.717,3.4,3,50617.81,30.4,Critical,Close distribution and shelf execution gap
+FreshWay,Midwest,Coffee,70375.09,27627.42,73.8,0.089,0.782,0.728,3.4,3,43016.28,30.3,Critical,Close distribution and shelf execution gap
+ClubPoint,Northeast,Cold Cuts,111228.65,34431.55,73.3,0.088,0.776,0.73,3.3,3,53547.32,30.2,Critical,Close distribution and shelf execution gap
+ClubPoint,West,Cold Cuts,116238.24,35982.3,73.4,0.0882,0.779,0.728,3.3,3,56241.93,30.2,Critical,Close distribution and shelf execution gap
+ClubPoint,Northeast,Coffee,97978.44,38513.13,73.6,0.0871,0.777,0.724,3.4,3,60298.82,30.1,Critical,Close distribution and shelf execution gap
+MetroMart,West,Coffee,66709.41,26233.23,74.1,0.0899,0.778,0.729,3.2,3,40592.2,30.0,Critical,Close distribution and shelf execution gap
+MetroMart,Northeast,Coffee,66789.72,26288.64,73.4,0.0892,0.766,0.71,3.3,2,44323.77,29.9,Critical,Close distribution and shelf execution gap
+MetroMart,South,Condiments,107294.81,43670.68,78.3,0.0848,0.767,0.714,3.3,4,62938.07,29.6,Critical,Close distribution and shelf execution gap
+Value Basket,South,Coffee,88310.41,34698.42,73.8,0.0901,0.778,0.727,3.4,3,54687.93,29.3,Critical,Close distribution and shelf execution gap
+MetroMart,Northeast,Cold Cuts,75539.11,23404.03,73.3,0.0898,0.774,0.72,3.3,2,38086.62,29.2,Critical,Close distribution and shelf execution gap
+ShopSquare,West,Coffee,83981.87,33002.12,73.8,0.0861,0.775,0.729,3.3,3,50215.12,28.9,Watch,Validate promo and field follow-up
+MetroMart,South,Meals,91354.33,32829.16,78.3,0.0838,0.773,0.722,3.2,4,45156.11,28.8,Watch,Validate promo and field follow-up
+MetroMart,South,Cheese,87213.55,29421.03,78.7,0.0802,0.772,0.722,3.0,4,39275.61,28.3,Watch,Validate promo and field follow-up
+ClubPoint,South,Coffee,98945.37,38954.3,73.7,0.0898,0.781,0.729,3.5,2,60701.13,28.2,Watch,Validate promo and field follow-up
+ShopSquare,South,Condiments,118036.12,48050.34,78.5,0.0809,0.766,0.713,3.1,4,67321.74,28.2,Watch,Validate promo and field follow-up
+FreshWay,Northeast,Coffee,70462.85,27712.39,73.2,0.0912,0.769,0.72,3.3,1,45589.2,28.1,Watch,Validate promo and field follow-up
+ClubPoint,South,Cold Cuts,114410.54,35473.57,73.5,0.0873,0.781,0.733,3.4,2,53979.2,27.9,Watch,Validate promo and field follow-up
+ClubPoint,Northeast,Meals,137633.28,49586.53,77.8,0.0822,0.767,0.713,3.2,3,71441.98,27.8,Watch,Validate promo and field follow-up
+ClubPoint,Midwest,Cold Cuts,103187.48,31951.01,73.0,0.0911,0.772,0.721,3.5,1,52583.12,27.7,Watch,Validate promo and field follow-up
+ShopSquare,South,Cheese,97476.31,32906.77,78.2,0.0812,0.772,0.723,3.2,4,44466.33,27.7,Watch,Validate promo and field follow-up
+FreshWay,South,Coffee,62122.37,24398.35,73.4,0.0927,0.777,0.727,3.4,1,39242.65,27.6,Watch,Validate promo and field follow-up
+ShopSquare,Northeast,Cold Cuts,98207.51,30410.74,73.8,0.0881,0.773,0.725,3.3,2,47578.54,27.6,Watch,Validate promo and field follow-up
+ShopSquare,Midwest,Coffee,68992.71,27108.8,74.0,0.0855,0.768,0.719,3.2,2,42590.95,27.6,Watch,Validate promo and field follow-up
+Corner Market,Midwest,Cold Cuts,63941.0,19824.56,73.0,0.0886,0.773,0.722,3.3,1,32044.85,27.5,Watch,Validate promo and field follow-up
+ShopSquare,Midwest,Cold Cuts,80827.14,25037.26,73.8,0.0896,0.779,0.73,3.5,2,38714.81,27.4,Watch,Validate promo and field follow-up
+FreshWay,South,Cold Cuts,75577.36,23430.94,73.7,0.09,0.774,0.724,3.4,1,37286.93,27.3,Watch,Validate promo and field follow-up
+FreshWay,Midwest,Meals,97883.45,35194.52,78.8,0.0808,0.766,0.718,3.1,3,47697.26,27.1,Watch,Validate promo and field follow-up
+Corner Market,South,Cold Cuts,56967.87,17649.47,73.5,0.0909,0.775,0.728,3.4,1,27933.28,27.1,Watch,Validate promo and field follow-up
+Corner Market,West,Condiments,79538.46,32402.5,77.9,0.0831,0.776,0.728,3.3,3,43799.87,27.0,Watch,Validate promo and field follow-up
+ShopSquare,South,Meals,102113.36,36739.81,78.5,0.0799,0.778,0.727,3.1,4,47870.21,27.0,Watch,Validate promo and field follow-up
+FreshWay,Northeast,Cold Cuts,83173.47,25806.16,73.5,0.0885,0.778,0.728,3.4,1,40346.52,26.9,Watch,Validate promo and field follow-up
+FreshWay,West,Cold Cuts,80581.16,24974.38,74.0,0.0878,0.773,0.724,3.2,1,38996.95,26.9,Watch,Validate promo and field follow-up
+MetroMart,Midwest,Cold Cuts,83332.85,25842.04,73.4,0.09,0.781,0.727,3.4,1,40878.47,26.8,Watch,Validate promo and field follow-up
+ShopSquare,Northeast,Coffee,86014.26,33877.7,73.8,0.0882,0.783,0.735,3.2,2,50948.85,26.8,Watch,Validate promo and field follow-up
+FreshWay,Midwest,Condiments,116379.33,47354.82,78.6,0.0811,0.778,0.722,3.1,3,63539.97,26.7,Watch,Validate promo and field follow-up
+MetroMart,Midwest,Coffee,71504.98,28092.34,74.0,0.0877,0.776,0.722,3.3,1,44128.54,26.6,Watch,Validate promo and field follow-up
+MetroMart,West,Meals,94574.67,34026.11,78.3,0.0825,0.776,0.727,3.2,3,45403.08,26.6,Watch,Validate promo and field follow-up
+Value Basket,West,Cold Cuts,97731.24,30245.66,73.0,0.0916,0.775,0.725,3.3,1,49218.24,26.6,Watch,Validate promo and field follow-up
+ClubPoint,Northeast,Cheese,132183.3,44646.3,78.2,0.0802,0.777,0.721,3.0,3,60523.16,26.6,Watch,Validate promo and field follow-up
+MetroMart,West,Cheese,88538.45,29843.42,78.5,0.0801,0.774,0.722,3.0,3,39941.72,26.5,Watch,Validate promo and field follow-up
+ClubPoint,Northeast,Condiments,167404.9,68138.55,78.0,0.0823,0.782,0.728,3.2,3,91073.37,26.5,Watch,Validate promo and field follow-up
+Corner Market,Midwest,Coffee,54502.2,21389.54,73.6,0.0875,0.782,0.727,3.4,1,33248.22,26.5,Watch,Validate promo and field follow-up
+ShopSquare,West,Meals,117488.7,42325.71,78.1,0.0857,0.772,0.725,3.2,3,58761.69,26.5,Watch,Validate promo and field follow-up
+Value Basket,Northeast,Cold Cuts,93043.51,28862.67,73.9,0.0888,0.765,0.715,3.5,1,47030.36,26.4,Watch,Validate promo and field follow-up
+ClubPoint,West,Condiments,158734.41,64626.28,78.0,0.08,0.778,0.727,3.2,3,85682.97,26.4,Watch,Validate promo and field follow-up
+ClubPoint,West,Cheese,130643.07,44101.97,78.4,0.0836,0.78,0.73,3.2,3,58424.43,26.4,Watch,Validate promo and field follow-up
+Corner Market,West,Meals,65687.44,23613.48,78.0,0.0811,0.779,0.732,3.1,3,30815.0,26.4,Watch,Validate promo and field follow-up
+Corner Market,West,Cheese,65045.18,21923.54,79.2,0.0803,0.77,0.72,3.2,3,29062.4,26.4,Watch,Validate promo and field follow-up
+ClubPoint,Midwest,Coffee,89754.5,35306.57,73.6,0.0872,0.777,0.73,3.2,1,54184.09,26.3,Watch,Validate promo and field follow-up
+Corner Market,South,Coffee,50814.18,19977.43,73.8,0.0887,0.785,0.729,3.2,1,30833.78,26.3,Watch,Validate promo and field follow-up
+Value Basket,West,Coffee,87958.05,34588.92,73.7,0.0883,0.772,0.72,3.3,1,55519.14,26.1,Watch,Validate promo and field follow-up
+FreshWay,Midwest,Cheese,94529.95,31902.86,78.9,0.0808,0.781,0.731,3.3,3,40668.53,26.0,Watch,Validate promo and field follow-up
+MetroMart,Northeast,Cheese,88384.3,29835.88,77.9,0.0832,0.767,0.717,3.2,2,42345.44,25.9,Watch,Validate promo and field follow-up
+FreshWay,West,Coffee,69860.53,27530.23,73.7,0.088,0.783,0.74,3.3,1,40621.32,25.9,Watch,Validate promo and field follow-up
+MetroMart,Northeast,Condiments,105942.28,43106.24,77.8,0.0828,0.769,0.719,3.1,2,60664.12,25.8,Watch,Validate promo and field follow-up
+ShopSquare,West,Cheese,109245.69,36819.91,78.4,0.0805,0.772,0.721,3.2,3,49654.75,25.8,Watch,Validate promo and field follow-up
+MetroMart,West,Condiments,107059.3,43592.8,78.8,0.0796,0.782,0.73,3.1,3,55569.15,25.6,Watch,Validate promo and field follow-up
+Value Basket,Midwest,Coffee,78328.46,30774.67,73.5,0.0901,0.783,0.73,3.5,1,48245.51,25.6,Watch,Validate promo and field follow-up
+Corner Market,Northeast,Coffee,47211.26,18546.4,74.2,0.088,0.77,0.713,3.5,0,30095.53,25.4,Watch,Validate promo and field follow-up
+ShopSquare,West,Condiments,138064.14,56212.62,78.9,0.0802,0.775,0.721,3.0,3,74786.58,25.4,Watch,Validate promo and field follow-up
+ClubPoint,West,Meals,142513.47,51361.3,79.4,0.0783,0.781,0.725,3.0,3,65204.58,25.3,Watch,Validate promo and field follow-up
+Value Basket,Northeast,Coffee,82984.77,32637.12,73.8,0.0887,0.785,0.732,3.2,1,49861.02,25.1,Watch,Validate promo and field follow-up
+Value Basket,Midwest,Cold Cuts,91726.66,28404.08,73.8,0.088,0.78,0.733,3.4,1,42890.87,25.0,Watch,Validate promo and field follow-up
+Value Basket,South,Cheese,117828.55,39713.41,78.8,0.0799,0.779,0.724,3.1,3,52011.9,25.0,Watch,Validate promo and field follow-up
+ClubPoint,South,Cheese,130245.29,43902.93,77.7,0.0785,0.776,0.72,3.2,2,59990.14,25.0,Watch,Validate promo and field follow-up
+Value Basket,South,Condiments,144115.47,58684.57,78.2,0.0785,0.784,0.733,3.0,3,74129.74,24.6,Watch,Validate promo and field follow-up
+MetroMart,Northeast,Meals,93892.31,33737.51,78.7,0.0801,0.778,0.72,3.0,2,45244.44,24.5,Watch,Validate promo and field follow-up
+Value Basket,South,Meals,122771.26,44135.03,79.3,0.0808,0.778,0.73,3.2,3,55859.02,24.5,Watch,Validate promo and field follow-up
+ClubPoint,South,Meals,141639.31,50959.84,78.6,0.0847,0.781,0.73,3.1,2,67684.68,24.5,Watch,Validate promo and field follow-up
+FreshWay,Northeast,Meals,97820.41,35206.31,78.0,0.0814,0.769,0.714,3.1,1,49964.29,24.3,Watch,Validate promo and field follow-up
+ShopSquare,Northeast,Meals,122708.37,44217.94,77.4,0.0791,0.778,0.724,3.1,2,59892.52,24.2,Watch,Validate promo and field follow-up
+ClubPoint,South,Condiments,157403.57,64038.08,78.6,0.0798,0.778,0.728,3.1,2,82662.6,24.1,Watch,Validate promo and field follow-up
+ShopSquare,Northeast,Cheese,112796.33,38026.88,78.4,0.0791,0.772,0.719,3.1,2,51317.57,24.0,Watch,Validate promo and field follow-up
+ShopSquare,Midwest,Meals,93948.01,33795.52,77.8,0.0825,0.78,0.729,3.2,2,45399.45,24.0,Watch,Validate promo and field follow-up
+FreshWay,South,Cheese,85304.26,28706.17,77.9,0.0822,0.778,0.721,3.3,1,39826.91,23.8,Watch,Validate promo and field follow-up
+Corner Market,Northeast,Cold Cuts,55452.75,17196.63,73.5,0.087,0.789,0.74,3.2,0,25282.14,23.7,Watch,Validate promo and field follow-up
+FreshWay,Northeast,Condiments,118512.98,48257.36,78.4,0.0818,0.773,0.72,3.4,1,66257.23,23.6,Watch,Validate promo and field follow-up
+Corner Market,Midwest,Condiments,90212.12,36723.13,78.6,0.0817,0.768,0.717,3.1,1,50620.41,23.6,Watch,Validate promo and field follow-up
+ShopSquare,Midwest,Condiments,111047.91,45233.04,78.8,0.0803,0.776,0.722,3.0,2,60029.99,23.6,Watch,Validate promo and field follow-up
+ShopSquare,Midwest,Cheese,91736.04,30865.32,78.0,0.081,0.783,0.735,3.1,2,39487.54,23.3,Watch,Validate promo and field follow-up
+FreshWay,South,Meals,90806.52,32612.48,78.5,0.0815,0.773,0.727,3.2,1,43144.82,23.2,Watch,Validate promo and field follow-up
+ClubPoint,Midwest,Cheese,121215.87,40883.32,78.6,0.081,0.769,0.719,3.2,1,55750.91,23.2,Watch,Validate promo and field follow-up
+Corner Market,South,Cheese,67186.49,22663.58,78.1,0.0825,0.775,0.727,3.3,1,30469.74,23.2,Watch,Validate promo and field follow-up
+MetroMart,Midwest,Condiments,120602.08,49086.87,78.5,0.083,0.775,0.726,3.2,1,65847.47,23.0,Watch,Validate promo and field follow-up
+Corner Market,South,Condiments,84156.6,34254.87,78.2,0.0837,0.779,0.732,3.1,1,45304.27,23.0,Watch,Validate promo and field follow-up
+FreshWay,South,Condiments,105887.79,43094.8,78.6,0.081,0.775,0.727,3.0,1,56459.95,22.9,Stable,Track in monthly cadence
+FreshWay,West,Meals,95956.48,34481.82,78.6,0.0777,0.772,0.721,3.1,1,45362.81,22.9,Stable,Track in monthly cadence
+FreshWay,Northeast,Cheese,93436.71,31501.74,79.1,0.0808,0.773,0.725,3.2,1,41140.42,22.8,Stable,Track in monthly cadence
+Corner Market,Midwest,Cheese,72254.27,24340.24,79.0,0.0831,0.778,0.726,3.2,1,32304.62,22.8,Stable,Track in monthly cadence
+MetroMart,Midwest,Cheese,94326.72,31790.38,78.7,0.0818,0.776,0.726,3.1,1,41949.77,22.7,Stable,Track in monthly cadence
+ClubPoint,Midwest,Condiments,146935.75,59827.01,78.6,0.0798,0.777,0.722,3.1,1,79814.22,22.7,Stable,Track in monthly cadence
+ShopSquare,Northeast,Condiments,144824.79,58948.8,78.8,0.0773,0.782,0.728,3.0,2,74338.51,22.7,Stable,Track in monthly cadence
+Corner Market,Midwest,Meals,76771.68,27620.39,78.4,0.0814,0.781,0.731,3.2,1,35904.2,22.6,Stable,Track in monthly cadence
+MetroMart,Midwest,Meals,104836.33,37738.3,78.3,0.081,0.781,0.733,3.1,1,48494.45,22.3,Stable,Track in monthly cadence
+Value Basket,West,Meals,121942.92,43802.57,78.0,0.0834,0.775,0.727,3.2,1,59292.89,22.3,Stable,Track in monthly cadence
+FreshWay,West,Cheese,93925.99,31620.1,78.8,0.0799,0.779,0.731,3.1,1,40043.75,22.3,Stable,Track in monthly cadence
+ClubPoint,Midwest,Meals,126780.61,45652.02,78.3,0.0808,0.781,0.732,3.1,1,58775.86,22.3,Stable,Track in monthly cadence
+Value Basket,Northeast,Cheese,109530.52,36971.76,78.5,0.0816,0.771,0.72,3.2,1,50409.5,22.2,Stable,Track in monthly cadence
+FreshWay,West,Condiments,113918.26,46365.4,78.7,0.0785,0.78,0.731,3.1,1,58497.73,22.2,Stable,Track in monthly cadence
+Value Basket,Midwest,Condiments,128380.64,52258.43,78.3,0.0811,0.775,0.722,3.1,1,70676.59,22.1,Stable,Track in monthly cadence
+Value Basket,Midwest,Meals,112519.46,40453.06,77.5,0.0846,0.779,0.736,3.3,1,53692.2,22.1,Stable,Track in monthly cadence
+Value Basket,Northeast,Condiments,136975.09,55793.36,78.7,0.083,0.777,0.725,3.2,1,74807.96,21.9,Stable,Track in monthly cadence
+Value Basket,West,Condiments,146307.81,59592.93,78.4,0.0823,0.78,0.725,3.2,1,80162.69,21.9,Stable,Track in monthly cadence
+Value Basket,West,Cheese,116245.42,39219.5,78.3,0.0813,0.775,0.727,3.1,1,51930.06,21.9,Stable,Track in monthly cadence
+Corner Market,South,Meals,71872.11,25875.46,79.6,0.0797,0.778,0.73,3.2,1,32261.89,21.8,Stable,Track in monthly cadence
+Value Basket,Northeast,Meals,115161.86,41385.66,78.9,0.078,0.775,0.719,3.0,1,54700.21,21.5,Stable,Track in monthly cadence
+Corner Market,Northeast,Meals,68998.24,24790.13,78.7,0.0809,0.774,0.724,3.0,0,32828.41,21.1,Stable,Track in monthly cadence
+Value Basket,Midwest,Cheese,104348.69,35156.02,78.3,0.082,0.79,0.738,3.1,1,44380.43,20.9,Stable,Track in monthly cadence
+Corner Market,Northeast,Condiments,78337.54,31865.54,78.3,0.0804,0.783,0.736,3.2,0,40110.8,20.3,Stable,Track in monthly cadence
+Corner Market,Northeast,Cheese,64822.53,21825.58,78.6,0.0815,0.784,0.737,3.4,0,27368.76,20.2,Stable,Track in monthly cadence

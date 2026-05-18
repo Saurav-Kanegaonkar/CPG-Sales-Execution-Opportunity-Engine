@@ -1,0 +1,145 @@
+store_id,retailer_id,retailer,channel,region,store_format,trade_area_index
+RTL01-NO-01,RTL01,MetroMart,Grocery,Northeast,Flagship,0.7
+RTL01-NO-02,RTL01,MetroMart,Grocery,Northeast,Core,0.89
+RTL01-NO-03,RTL01,MetroMart,Grocery,Northeast,Core,1.15
+RTL01-NO-04,RTL01,MetroMart,Grocery,Northeast,Core,1.02
+RTL01-NO-05,RTL01,MetroMart,Grocery,Northeast,Core,0.72
+RTL01-NO-06,RTL01,MetroMart,Grocery,Northeast,Ecommerce node,0.69
+RTL01-MI-01,RTL01,MetroMart,Grocery,Midwest,Flagship,0.92
+RTL01-MI-02,RTL01,MetroMart,Grocery,Midwest,Ecommerce node,0.85
+RTL01-MI-03,RTL01,MetroMart,Grocery,Midwest,Ecommerce node,0.72
+RTL01-MI-04,RTL01,MetroMart,Grocery,Midwest,Small format,1.05
+RTL01-MI-05,RTL01,MetroMart,Grocery,Midwest,Flagship,1.06
+RTL01-MI-06,RTL01,MetroMart,Grocery,Midwest,Small format,1.03
+RTL01-SO-01,RTL01,MetroMart,Grocery,South,Flagship,0.78
+RTL01-SO-02,RTL01,MetroMart,Grocery,South,Flagship,0.77
+RTL01-SO-03,RTL01,MetroMart,Grocery,South,Flagship,0.88
+RTL01-SO-04,RTL01,MetroMart,Grocery,South,Ecommerce node,0.85
+RTL01-SO-05,RTL01,MetroMart,Grocery,South,Core,1.14
+RTL01-SO-06,RTL01,MetroMart,Grocery,South,Small format,0.68
+RTL01-WE-01,RTL01,MetroMart,Grocery,West,Core,0.84
+RTL01-WE-02,RTL01,MetroMart,Grocery,West,Ecommerce node,1.04
+RTL01-WE-03,RTL01,MetroMart,Grocery,West,Core,0.85
+RTL01-WE-04,RTL01,MetroMart,Grocery,West,Small format,0.77
+RTL01-WE-05,RTL01,MetroMart,Grocery,West,Small format,0.75
+RTL01-WE-06,RTL01,MetroMart,Grocery,West,Core,0.95
+RTL02-NO-01,RTL02,Value Basket,Mass,Northeast,Small format,1.16
+RTL02-NO-02,RTL02,Value Basket,Mass,Northeast,Core,1.15
+RTL02-NO-03,RTL02,Value Basket,Mass,Northeast,Flagship,0.94
+RTL02-NO-04,RTL02,Value Basket,Mass,Northeast,Core,0.97
+RTL02-NO-05,RTL02,Value Basket,Mass,Northeast,Core,1.2
+RTL02-NO-06,RTL02,Value Basket,Mass,Northeast,Core,0.93
+RTL02-MI-01,RTL02,Value Basket,Mass,Midwest,Small format,1.06
+RTL02-MI-02,RTL02,Value Basket,Mass,Midwest,Ecommerce node,1.04
+RTL02-MI-03,RTL02,Value Basket,Mass,Midwest,Ecommerce node,1.05
+RTL02-MI-04,RTL02,Value Basket,Mass,Midwest,Core,0.96
+RTL02-MI-05,RTL02,Value Basket,Mass,Midwest,Core,1.12
+RTL02-MI-06,RTL02,Value Basket,Mass,Midwest,Ecommerce node,0.95
+RTL02-SO-01,RTL02,Value Basket,Mass,South,Core,1.1
+RTL02-SO-02,RTL02,Value Basket,Mass,South,Ecommerce node,1.42
+RTL02-SO-03,RTL02,Value Basket,Mass,South,Core,0.9
+RTL02-SO-04,RTL02,Value Basket,Mass,South,Small format,1.21
+RTL02-SO-05,RTL02,Value Basket,Mass,South,Core,1.31
+RTL02-SO-06,RTL02,Value Basket,Mass,South,Small format,0.82
+RTL02-WE-01,RTL02,Value Basket,Mass,West,Ecommerce node,1.03
+RTL02-WE-02,RTL02,Value Basket,Mass,West,Small format,1.16
+RTL02-WE-03,RTL02,Value Basket,Mass,West,Flagship,1.41
+RTL02-WE-04,RTL02,Value Basket,Mass,West,Flagship,1.32
+RTL02-WE-05,RTL02,Value Basket,Mass,West,Core,0.86
+RTL02-WE-06,RTL02,Value Basket,Mass,West,Ecommerce node,0.94
+RTL03-NO-01,RTL03,FreshWay,Grocery,Northeast,Core,0.9
+RTL03-NO-02,RTL03,FreshWay,Grocery,Northeast,Flagship,1.04
+RTL03-NO-03,RTL03,FreshWay,Grocery,Northeast,Core,0.87
+RTL03-NO-04,RTL03,FreshWay,Grocery,Northeast,Small format,1.06
+RTL03-NO-05,RTL03,FreshWay,Grocery,Northeast,Small format,0.76
+RTL03-NO-06,RTL03,FreshWay,Grocery,Northeast,Core,0.83
+RTL03-MI-01,RTL03,FreshWay,Grocery,Midwest,Small format,0.95
+RTL03-MI-02,RTL03,FreshWay,Grocery,Midwest,Core,1.05
+RTL03-MI-03,RTL03,FreshWay,Grocery,Midwest,Ecommerce node,0.72
+RTL03-MI-04,RTL03,FreshWay,Grocery,Midwest,Core,0.81
+RTL03-MI-05,RTL03,FreshWay,Grocery,Midwest,Small format,0.99
+RTL03-MI-06,RTL03,FreshWay,Grocery,Midwest,Core,0.91
+RTL03-SO-01,RTL03,FreshWay,Grocery,South,Small format,0.85
+RTL03-SO-02,RTL03,FreshWay,Grocery,South,Small format,0.76
+RTL03-SO-03,RTL03,FreshWay,Grocery,South,Ecommerce node,0.82
+RTL03-SO-04,RTL03,FreshWay,Grocery,South,Core,0.97
+RTL03-SO-05,RTL03,FreshWay,Grocery,South,Flagship,0.88
+RTL03-SO-06,RTL03,FreshWay,Grocery,South,Small format,0.73
+RTL03-WE-01,RTL03,FreshWay,Grocery,West,Flagship,1.01
+RTL03-WE-02,RTL03,FreshWay,Grocery,West,Flagship,0.96
+RTL03-WE-03,RTL03,FreshWay,Grocery,West,Flagship,1.05
+RTL03-WE-04,RTL03,FreshWay,Grocery,West,Core,0.72
+RTL03-WE-05,RTL03,FreshWay,Grocery,West,Flagship,0.68
+RTL03-WE-06,RTL03,FreshWay,Grocery,West,Core,0.97
+RTL04-NO-01,RTL04,ClubPoint,Club,Northeast,Small format,1.09
+RTL04-NO-02,RTL04,ClubPoint,Club,Northeast,Flagship,1.55
+RTL04-NO-03,RTL04,ClubPoint,Club,Northeast,Small format,1.04
+RTL04-NO-04,RTL04,ClubPoint,Club,Northeast,Ecommerce node,1.12
+RTL04-NO-05,RTL04,ClubPoint,Club,Northeast,Flagship,1.39
+RTL04-NO-06,RTL04,ClubPoint,Club,Northeast,Core,1.38
+RTL04-MI-01,RTL04,ClubPoint,Club,Midwest,Core,1.06
+RTL04-MI-02,RTL04,ClubPoint,Club,Midwest,Ecommerce node,1.08
+RTL04-MI-03,RTL04,ClubPoint,Club,Midwest,Small format,0.97
+RTL04-MI-04,RTL04,ClubPoint,Club,Midwest,Ecommerce node,0.97
+RTL04-MI-05,RTL04,ClubPoint,Club,Midwest,Flagship,1.41
+RTL04-MI-06,RTL04,ClubPoint,Club,Midwest,Ecommerce node,1.53
+RTL04-SO-01,RTL04,ClubPoint,Club,South,Ecommerce node,1.52
+RTL04-SO-02,RTL04,ClubPoint,Club,South,Flagship,1.36
+RTL04-SO-03,RTL04,ClubPoint,Club,South,Ecommerce node,1.41
+RTL04-SO-04,RTL04,ClubPoint,Club,South,Small format,0.94
+RTL04-SO-05,RTL04,ClubPoint,Club,South,Flagship,1.23
+RTL04-SO-06,RTL04,ClubPoint,Club,South,Core,1.14
+RTL04-WE-01,RTL04,ClubPoint,Club,West,Flagship,1.37
+RTL04-WE-02,RTL04,ClubPoint,Club,West,Ecommerce node,1.0
+RTL04-WE-03,RTL04,ClubPoint,Club,West,Small format,1.05
+RTL04-WE-04,RTL04,ClubPoint,Club,West,Core,1.48
+RTL04-WE-05,RTL04,ClubPoint,Club,West,Ecommerce node,1.38
+RTL04-WE-06,RTL04,ClubPoint,Club,West,Core,1.45
+RTL05-NO-01,RTL05,Corner Market,Convenience,Northeast,Ecommerce node,0.52
+RTL05-NO-02,RTL05,Corner Market,Convenience,Northeast,Core,0.66
+RTL05-NO-03,RTL05,Corner Market,Convenience,Northeast,Core,0.53
+RTL05-NO-04,RTL05,Corner Market,Convenience,Northeast,Flagship,0.8
+RTL05-NO-05,RTL05,Corner Market,Convenience,Northeast,Small format,0.59
+RTL05-NO-06,RTL05,Corner Market,Convenience,Northeast,Flagship,0.66
+RTL05-MI-01,RTL05,Corner Market,Convenience,Midwest,Core,0.61
+RTL05-MI-02,RTL05,Corner Market,Convenience,Midwest,Ecommerce node,0.84
+RTL05-MI-03,RTL05,Corner Market,Convenience,Midwest,Ecommerce node,0.78
+RTL05-MI-04,RTL05,Corner Market,Convenience,Midwest,Flagship,0.83
+RTL05-MI-05,RTL05,Corner Market,Convenience,Midwest,Flagship,0.52
+RTL05-MI-06,RTL05,Corner Market,Convenience,Midwest,Core,0.66
+RTL05-SO-01,RTL05,Corner Market,Convenience,South,Flagship,0.73
+RTL05-SO-02,RTL05,Corner Market,Convenience,South,Small format,0.78
+RTL05-SO-03,RTL05,Corner Market,Convenience,South,Flagship,0.64
+RTL05-SO-04,RTL05,Corner Market,Convenience,South,Flagship,0.72
+RTL05-SO-05,RTL05,Corner Market,Convenience,South,Core,0.54
+RTL05-SO-06,RTL05,Corner Market,Convenience,South,Ecommerce node,0.54
+RTL05-WE-01,RTL05,Corner Market,Convenience,West,Flagship,0.74
+RTL05-WE-02,RTL05,Corner Market,Convenience,West,Small format,0.57
+RTL05-WE-03,RTL05,Corner Market,Convenience,West,Ecommerce node,0.6
+RTL05-WE-04,RTL05,Corner Market,Convenience,West,Ecommerce node,0.57
+RTL05-WE-05,RTL05,Corner Market,Convenience,West,Ecommerce node,0.86
+RTL05-WE-06,RTL05,Corner Market,Convenience,West,Core,0.54
+RTL06-NO-01,RTL06,ShopSquare,Omnichannel,Northeast,Small format,1.07
+RTL06-NO-02,RTL06,ShopSquare,Omnichannel,Northeast,Core,0.89
+RTL06-NO-03,RTL06,ShopSquare,Omnichannel,Northeast,Small format,1.24
+RTL06-NO-04,RTL06,ShopSquare,Omnichannel,Northeast,Flagship,1.21
+RTL06-NO-05,RTL06,ShopSquare,Omnichannel,Northeast,Core,1.26
+RTL06-NO-06,RTL06,ShopSquare,Omnichannel,Northeast,Small format,0.98
+RTL06-MI-01,RTL06,ShopSquare,Omnichannel,Midwest,Small format,0.78
+RTL06-MI-02,RTL06,ShopSquare,Omnichannel,Midwest,Flagship,0.89
+RTL06-MI-03,RTL06,ShopSquare,Omnichannel,Midwest,Core,1.05
+RTL06-MI-04,RTL06,ShopSquare,Omnichannel,Midwest,Small format,0.93
+RTL06-MI-05,RTL06,ShopSquare,Omnichannel,Midwest,Flagship,0.87
+RTL06-MI-06,RTL06,ShopSquare,Omnichannel,Midwest,Small format,0.79
+RTL06-SO-01,RTL06,ShopSquare,Omnichannel,South,Flagship,1.19
+RTL06-SO-02,RTL06,ShopSquare,Omnichannel,South,Core,0.88
+RTL06-SO-03,RTL06,ShopSquare,Omnichannel,South,Small format,0.85
+RTL06-SO-04,RTL06,ShopSquare,Omnichannel,South,Ecommerce node,0.83
+RTL06-SO-05,RTL06,ShopSquare,Omnichannel,South,Ecommerce node,1.02
+RTL06-SO-06,RTL06,ShopSquare,Omnichannel,South,Ecommerce node,0.88
+RTL06-WE-01,RTL06,ShopSquare,Omnichannel,West,Small format,1.15
+RTL06-WE-02,RTL06,ShopSquare,Omnichannel,West,Ecommerce node,1.32
+RTL06-WE-03,RTL06,ShopSquare,Omnichannel,West,Core,1.04
+RTL06-WE-04,RTL06,ShopSquare,Omnichannel,West,Small format,1.12
+RTL06-WE-05,RTL06,ShopSquare,Omnichannel,West,Small format,0.91
+RTL06-WE-06,RTL06,ShopSquare,Omnichannel,West,Small format,0.94

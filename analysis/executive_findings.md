@@ -1,15 +1,6 @@
 # Executive Findings
 
-## What I analyzed
-
-I joined 5,040 daily metric rows, 760 source events, and 220 action candidates for CPG sales execution analytics.
-
-## Findings
-
-- The highest-priority sales priority is SAL008 with a priority score of 94.31.
-- The top queue combines 50.7 average risk with 80.9 quality score and $794,822 estimated impact.
-- The strongest use case is turning repeated stakeholder questions into a ranked operating digest.
-
-## Recommendation
-
-Prioritize the top queue before scaling more dashboards. The project should help leaders decide which sales priority risks need action, validation, or monitoring.
+- The engine identified 20 critical retailer-region-category opportunities.
+- Estimated margin-weighted opportunity is $5,956,429.
+- The highest value opportunity is MetroMart in South for Coffee.
+- 7 validation checks are marked Investigate, so sales enablement outputs should include data confidence context.

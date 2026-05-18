@@ -1,0 +1,61 @@
+visit_id,store_id,retailer,region,visit_date,issue_found,rep_capacity_hours,status
+VIS-RTL06-SO-01,RTL06-SO-01,ShopSquare,South,2025-11-05,planogram drift,3.2,open
+VIS-RTL01-SO-04,RTL01-SO-04,MetroMart,South,2026-01-31,promo tag missing,4.0,scheduled
+VIS-RTL01-SO-06,RTL01-SO-06,MetroMart,South,2025-10-20,low shelf inventory,4.5,open
+VIS-RTL04-NO-01,RTL04-NO-01,ClubPoint,Northeast,2025-09-05,low shelf inventory,4.6,open
+VIS-RTL06-WE-04,RTL06-WE-04,ShopSquare,West,2026-02-21,low shelf inventory,5.4,scheduled
+VIS-RTL03-MI-01,RTL03-MI-01,FreshWay,Midwest,2025-12-02,display not built,3.4,scheduled
+VIS-RTL05-WE-04,RTL05-WE-04,Corner Market,West,2026-03-05,display not built,4.7,scheduled
+VIS-RTL01-SO-03,RTL01-SO-03,MetroMart,South,2026-01-13,planogram drift,2.2,open
+VIS-RTL03-MI-05,RTL03-MI-05,FreshWay,Midwest,2026-02-23,promo tag missing,3.7,scheduled
+VIS-RTL02-NO-06,RTL02-NO-06,Value Basket,Northeast,2026-03-15,void gap,2.7,open
+VIS-RTL06-NO-04,RTL06-NO-04,ShopSquare,Northeast,2025-12-23,low shelf inventory,3.4,open
+VIS-RTL01-WE-03,RTL01-WE-03,MetroMart,West,2026-02-09,planogram drift,2.7,open
+VIS-RTL01-NO-06,RTL01-NO-06,MetroMart,Northeast,2026-02-26,low shelf inventory,4.3,open
+VIS-RTL02-WE-03,RTL02-WE-03,Value Basket,West,2025-10-14,low shelf inventory,2.2,resolved
+VIS-RTL04-MI-06,RTL04-MI-06,ClubPoint,Midwest,2026-01-30,display not built,2.1,open
+VIS-RTL03-SO-05,RTL03-SO-05,FreshWay,South,2026-03-05,promo tag missing,4.9,scheduled
+VIS-RTL06-WE-02,RTL06-WE-02,ShopSquare,West,2026-01-16,display not built,1.5,open
+VIS-RTL04-SO-04,RTL04-SO-04,ClubPoint,South,2025-11-15,void gap,1.7,scheduled
+VIS-RTL05-MI-01,RTL05-MI-01,Corner Market,Midwest,2026-03-05,low shelf inventory,3.6,resolved
+VIS-RTL02-SO-04,RTL02-SO-04,Value Basket,South,2026-01-27,void gap,1.7,open
+VIS-RTL04-WE-01,RTL04-WE-01,ClubPoint,West,2025-09-27,low shelf inventory,5.3,open
+VIS-RTL04-MI-05,RTL04-MI-05,ClubPoint,Midwest,2025-10-02,void gap,2.2,resolved
+VIS-RTL05-WE-06,RTL05-WE-06,Corner Market,West,2025-09-16,promo tag missing,5.5,open
+VIS-RTL06-WE-01,RTL06-WE-01,ShopSquare,West,2025-09-15,promo tag missing,2.3,open
+VIS-RTL04-WE-06,RTL04-WE-06,ClubPoint,West,2025-11-20,low shelf inventory,2.5,scheduled
+VIS-RTL06-NO-03,RTL06-NO-03,ShopSquare,Northeast,2025-11-19,promo tag missing,5.3,scheduled
+VIS-RTL03-WE-05,RTL03-WE-05,FreshWay,West,2026-03-08,display not built,4.2,open
+VIS-RTL03-NO-02,RTL03-NO-02,FreshWay,Northeast,2025-12-30,void gap,2.4,scheduled
+VIS-RTL02-WE-05,RTL02-WE-05,Value Basket,West,2026-01-19,planogram drift,3.2,open
+VIS-RTL04-NO-03,RTL04-NO-03,ClubPoint,Northeast,2025-12-19,low shelf inventory,1.7,open
+VIS-RTL04-MI-02,RTL04-MI-02,ClubPoint,Midwest,2025-10-01,display not built,4.5,resolved
+VIS-RTL05-MI-02,RTL05-MI-02,Corner Market,Midwest,2025-11-01,planogram drift,4.9,open
+VIS-RTL04-WE-04,RTL04-WE-04,ClubPoint,West,2025-09-01,planogram drift,4.4,open
+VIS-RTL02-MI-05,RTL02-MI-05,Value Basket,Midwest,2025-12-27,planogram drift,4.0,open
+VIS-RTL02-SO-06,RTL02-SO-06,Value Basket,South,2026-02-23,promo tag missing,1.5,open
+VIS-RTL01-SO-05,RTL01-SO-05,MetroMart,South,2025-12-19,planogram drift,5.3,open
+VIS-RTL06-MI-05,RTL06-MI-05,ShopSquare,Midwest,2026-01-24,promo tag missing,3.0,resolved
+VIS-RTL05-SO-06,RTL05-SO-06,Corner Market,South,2025-12-22,low shelf inventory,2.9,open
+VIS-RTL02-SO-02,RTL02-SO-02,Value Basket,South,2026-03-02,low shelf inventory,2.6,open
+VIS-RTL01-WE-04,RTL01-WE-04,MetroMart,West,2026-02-08,planogram drift,4.4,scheduled
+VIS-RTL04-SO-02,RTL04-SO-02,ClubPoint,South,2026-02-19,planogram drift,3.9,scheduled
+VIS-RTL06-SO-04,RTL06-SO-04,ShopSquare,South,2025-10-13,low shelf inventory,2.8,scheduled
+VIS-RTL06-MI-01,RTL06-MI-01,ShopSquare,Midwest,2025-11-09,low shelf inventory,4.1,open
+VIS-RTL01-NO-01,RTL01-NO-01,MetroMart,Northeast,2025-11-04,void gap,2.4,scheduled
+VIS-RTL05-SO-02,RTL05-SO-02,Corner Market,South,2026-02-11,display not built,3.3,resolved
+VIS-RTL06-WE-05,RTL06-WE-05,ShopSquare,West,2025-12-13,display not built,4.6,resolved
+VIS-RTL03-MI-06,RTL03-MI-06,FreshWay,Midwest,2026-01-22,promo tag missing,3.4,resolved
+VIS-RTL06-SO-02,RTL06-SO-02,ShopSquare,South,2025-11-20,display not built,2.0,scheduled
+VIS-RTL04-MI-03,RTL04-MI-03,ClubPoint,Midwest,2026-03-05,promo tag missing,3.6,resolved
+VIS-RTL06-SO-05,RTL06-SO-05,ShopSquare,South,2025-11-03,planogram drift,3.9,open
+VIS-RTL05-WE-03,RTL05-WE-03,Corner Market,West,2025-11-29,void gap,3.3,scheduled
+VIS-RTL01-MI-01,RTL01-MI-01,MetroMart,Midwest,2025-11-30,display not built,2.3,scheduled
+VIS-RTL06-MI-06,RTL06-MI-06,ShopSquare,Midwest,2026-02-19,promo tag missing,5.1,scheduled
+VIS-RTL03-MI-03,RTL03-MI-03,FreshWay,Midwest,2025-10-31,promo tag missing,4.4,open
+VIS-RTL01-WE-05,RTL01-WE-05,MetroMart,West,2026-03-11,planogram drift,4.6,open
+VIS-RTL06-MI-04,RTL06-MI-04,ShopSquare,Midwest,2025-09-28,void gap,2.8,resolved
+VIS-RTL05-MI-06,RTL05-MI-06,Corner Market,Midwest,2025-11-02,promo tag missing,2.5,resolved
+VIS-RTL04-NO-06,RTL04-NO-06,ClubPoint,Northeast,2026-01-11,planogram drift,2.8,open
+VIS-RTL05-NO-02,RTL05-NO-02,Corner Market,Northeast,2026-01-13,promo tag missing,4.7,resolved
+VIS-RTL06-SO-03,RTL06-SO-03,ShopSquare,South,2025-10-06,void gap,2.9,resolved

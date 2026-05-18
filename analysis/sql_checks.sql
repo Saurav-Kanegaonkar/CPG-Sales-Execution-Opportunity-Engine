@@ -1,17 +1,21 @@
--- Priority queue foundation
-select
-  entity_id,
-  avg(risk_score) as avg_risk_score,
-  avg(quality_score) as avg_quality_score,
-  sum(value_pool) as value_pool
-from daily_metrics
-group by 1
-order by avg_risk_score desc;
+-- Snowflake-style retail execution validation checks
+select retailer, region, category, count(*) as weekly_rows
+from weekly_retail_execution
+group by retailer, region, category
+having count(*) = 0;
 
--- Action readiness
-select
-  action_type,
-  avg(expected_lift_pct) as expected_lift,
-  avg(effort_hours) as effort_hours
-from recommended_actions
-group by 1;
+select retailer, check_name, failure_rate
+from validation_checks
+where failure_rate > 0.06;
+
+select store_id, sku_id, week_start
+from weekly_retail_execution
+where acv_distribution < 0
+   or acv_distribution > 100
+   or oos_rate < 0
+   or promo_compliance < 0
+   or promo_compliance > 1;
+
+select retailer, region, category, sum(dollar_sales) as sales, sum(gross_margin) as margin
+from weekly_retail_execution
+group by retailer, region, category;
